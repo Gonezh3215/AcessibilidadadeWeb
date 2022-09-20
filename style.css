@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    background-color: rgb(255, 255, 255);
+}
+
+h3 {
+    border: 2px solid rgb(255, 166, 0);
+    background-color: rgb(255, 166, 0);
+    color: #fff ;
+    border-radius: 20px;
+    padding: 10px;
+    padding-top: 10px;
+    font-size:25px;
+   
+}
+
+p{
+    color:black;
+    border: 3px solid rgb(255, 166, 0);
+    border-radius: 12px;
+    width: 350px;
+    left: 200px;
+    
+   
+}
+
+img {
+    border-radius: 12px;
+    width: 400px;
+    float: right;
+}
